@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DDL00P's Blog # the main title
+title: G-Kr4V3n Blog # the main title
 
-tagline: In this blog, I will publish write-ups of various machines and other projects I have worked on.
+tagline: Este es mi blog donde comparto contenido de ciberseguridad
 
  # it will display as the subtitle
 
@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://DDL00P.github.io"
 
 github:
-  username: DDL00P # change to your GitHub username
+  username: G-kr4v3n # change to your GitHub username
 
 #twitter:
   #username: esddl00p # change to your Twitter username
@@ -36,8 +36,8 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: DDL00P
-  email: javi.cybersjr@gmail.com # change to your email address
+  name: G-Kr4V3n
+  email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ # change to your Twitter homepage
@@ -100,8 +100,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/196484940?v=4
-
+avatar: https://static.vecteezy.com/system/resources/previews/043/117/249/large_2x/illustration-of-boy-profile-anime-style-black-silhouette-isolated-on-white-background-free-vector.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: https://avatars.githubusercontent.com/u/196484940?v=4

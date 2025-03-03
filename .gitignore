@@ -1,27 +1,35 @@
 # Bundler cache
-.bundle
-vendor
+.bundle/
+vendor/
 Gemfile.lock
 
 # Jekyll cache
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
-_site
+_site/
 
 # RubyGems
 *.gem
 
 # NPM dependencies
-node_modules
+node_modules/
 package-lock.json
+pnpm-lock.yaml
+yarn.lock
 
 # IDE configurations
-.idea
-.vscode/*
+.idea/
+.vscode/
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
+# Docker
+docker-compose.override.yml
+*.log
+*.pid
+/tmp/
+
 # Misc
-_sass/vendors
-assets/js/dist
+_sass/vendors/
+assets/js/dist/

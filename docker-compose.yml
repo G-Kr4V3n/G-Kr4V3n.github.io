@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"  # Puerto de livereload
+    volumes:
+      - .:/srv/jekyll  # Montar el directorio raíz del proyecto
+      - bundle:/usr/local/bundle
+    environment:
+      JEKYLL_ENV: development
+
+volumes:
+  bundle:
