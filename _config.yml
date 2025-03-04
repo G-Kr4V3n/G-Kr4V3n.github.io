@@ -37,11 +37,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: G-Kr4V3n
-  email:  # change to your email address
+  email:  Kr4v3n27@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ # change to your Twitter homepage
-    - https://github.com/DDL00P # change to your GitHub homepage
+    # change to your Twitter homepage
+    - https://github.com/G-Kr4V3n # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -100,7 +100,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://static.vecteezy.com/system/resources/previews/043/117/249/large_2x/illustration-of-boy-profile-anime-style-black-silhouette-isolated-on-white-background-free-vector.jpg
+avatar: https://elcomercio.pe/resizer/v2/UXNNVQKJS5EY3GHX3NRMIPYIEY.jpg?auth=6e458018f12e6858a55509d7b39fd7958086ef9fe145ce21a53fd2f19d2b4ef6&width=1200&height=810&quality=90&smart=true
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: https://avatars.githubusercontent.com/u/196484940?v=4
