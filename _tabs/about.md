@@ -17,5 +17,6 @@ order: 4
 
 ## Algunos de mis certificados 
 
+
 ![img-description](/assets/Certificados/C_personalizacion.png)
 
