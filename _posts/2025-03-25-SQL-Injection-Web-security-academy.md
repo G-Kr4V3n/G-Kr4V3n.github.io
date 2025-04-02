@@ -1,7 +1,8 @@
 ---
+
 layaout: post
 image: /assets/DocumentacionHacking/InyeccionSQL.png
-title: SQL Injection web-security-academy
+title: SQL Injection   web-security-academy
 date: 25-03-2025
 categories: [Laboratorios]
 tag: [SQL inyection]
